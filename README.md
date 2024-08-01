@@ -17,11 +17,11 @@ This script is useful for anyone looking to scrape specific content from a webpa
 ```
 pip install requests beautifulsoup4
 ```
-3. Run the Script: Save the code in a Python file. Run the script using Python:
+2. Run the Script: Save the code in a Python file. Run the script using Python:
 ```
 python filename.py
 ```
-5. View Output: The script will print the extracted text from the specified div to the console. If the div is not found, it will print "Content div not found."
+3. View Output: The script will print the extracted text from the specified div to the console. If the div is not found, it will print "Content div not found."
 
 ## Requirements to Run the Code
 Python: Ensure you have Python installed on your machine (Python 3.x is recommended).
