@@ -24,10 +24,10 @@ python filename.py
 3. View Output: The script will print the extracted text from the specified div to the console. If the div is not found, it will print "Content div not found."
 
 ## Requirements to Run the Code
-Python: Ensure you have Python installed on your machine (Python 3.x is recommended).
-Libraries: The following libraries must be installed:
-requests: For making HTTP requests to fetch the webpage.
-beautifulsoup4: For parsing the HTML content.
+- Python: Ensure you have Python installed on your machine (Python 3.x is recommended).
+- Libraries: The following libraries must be installed:
+- requests: For making HTTP requests to fetch the webpage.
+- beautifulsoup4: For parsing the HTML content.
 
 
    
