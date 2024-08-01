@@ -1,4 +1,4 @@
-# Web scrap TED talk links
+# Web Scrap TED Talk Links
 
 ## Overview 
 This project performs web scraping to extract content from a specific webpage. It uses the <code>requests</code> library to fetch the HTML content of the page and the <code>BeautifulSoup</code> library to parse the HTML and extract text from a designated section of the page. 
